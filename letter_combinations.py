@@ -25,5 +25,5 @@ print(letterCombinations("23"))
 print("\nInput: ''")
 print("Output:", letterCombinations(""))
 
-print("\nInput: '2'")
-print("Output:", letterCombinations("2"))
+print("\nInput: '4'")
+print("Output:", letterCombinations("4"))
